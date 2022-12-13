@@ -1,0 +1,15 @@
+public class Demo {
+
+public static void mobile() {
+
+System.out.println("Nokia");
+
+}
+
+public static void main(String[] args){
+
+mobile();
+
+}
+
+}
